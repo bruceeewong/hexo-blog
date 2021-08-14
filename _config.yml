@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Bruski's Blog
-subtitle: Note can beat any brain
-description: all the blogs here are sparks of bruski's coding life
+title: 👨🏻‍💻 Bruski's Blog
+subtitle: sparks of life ✨
+description: Clean codes that works 💡
 keywords: [bruski, frontend, web, coding]
-author: bruski
+author: Bruski
 language: [zh-CN, en]
 timezone: ''
 
@@ -67,7 +67,7 @@ index_generator:
 
 # Category & Tag
 default_category: uncategorized
-category_map:
+category_map: 
 tag_map:
 
 # Metadata elements
