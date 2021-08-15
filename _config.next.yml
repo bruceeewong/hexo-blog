@@ -50,9 +50,9 @@ darkmode: false
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
+  small: /images/favicon.png
+  medium: /images/favicon.png
+  apple_touch_icon: /images/favicon.png
   safari_pinned_tab: /images/logo.svg
   #android_manifest: /manifest.json
 
@@ -211,13 +211,13 @@ footer:
   # Beian ICP and gongan information for Chinese users. See: https://beian.miit.gov.cn, http://www.beian.gov.cn
   beian:
     enable: true
-    icp: 粤ICP
+    icp: 粤ICP备18160994号-2
     # The digit in the num of gongan beian.
-    gongan_id: 粤ICP备18160994号-2
+    gongan_id: 
     # The full num of gongan beian.
-    gongan_num: 备18160994号-2
+    gongan_num: 
     # The icon for gongan beian. See: http://www.beian.gov.cn/portal/download
-    gongan_icon_url: http://www.beian.gov.cn/portal/download
+    gongan_icon_url:
 
 
 # ---------------------------------------------------------------

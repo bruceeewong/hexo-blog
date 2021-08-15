@@ -1,7 +1,6 @@
 ---
 title: Hello, World!
-categories: home
-tags: [casual]
+categories: RealTalk
 ---
 Hmm, 新博客的第一篇文章，说些什么好呢🧐
 
