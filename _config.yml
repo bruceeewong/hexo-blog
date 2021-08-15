@@ -6,14 +6,14 @@
 title: Bruski's Blog
 subtitle: sparks of life ✨
 description: Clean codes that works 💡
-keywords: [bruski, frontend, web, coding]
+keywords: [bruski, blog, coding, program]
 author: Bruski
 language: [zh-CN, en]
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://brucccewong.github.io/
+url: https://www.bruski.wang/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,3 +103,8 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
