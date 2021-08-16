@@ -159,13 +159,16 @@ social_icons:
 
 # Blog rolls
 links_settings:
-  icon: fa fa-globe
-  title: Links
+  icon: fa fa-user-friends
+  title: My friends
   # Available values: block | inline
   layout: block
 
 links:
-  #Title: https://example.com
+  Airing的小屋: https://me.ursb.me/
+  Hedwig: https://hedwig.pub/
+  Wall-E の Paradise: https://www.qirencloud.com/
+
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).

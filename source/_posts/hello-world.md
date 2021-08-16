@@ -1,6 +1,6 @@
 ---
 title: Hello, world!
-categories: RealTalk
+categories: real-talk
 ---
 Hmm, 新博客的第一篇文章，说些什么好呢🧐
 
