@@ -106,8 +106,6 @@ deploy:
 
 sitemap:
   path: sitemap.xml
-baidusitemap:
-  path: baidusitemap.xml
 
 # hexo-symbols-count-time
 symbols_count_time:
