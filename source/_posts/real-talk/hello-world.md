@@ -2,6 +2,7 @@
 title: Hello, world!
 categories: real-talk
 ---
+
 Hmm, 新博客的第一篇文章，说些什么好呢🧐
 
 首先当然是庆祝自己找到了喜欢的博客框架 [Hexo](https://hexo.io/), it's truly awesome! 之前尝试过wordpress, ghost之类的框架，但是nah，就凭他们的markdown文章支持不好来说，就觉得他们不是coder优先的设计。看到朋友 [cchroot](https://cchroot.github.io/) 的博客后，被hexo+next主题给惊艳到了：
