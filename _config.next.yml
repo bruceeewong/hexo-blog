@@ -143,18 +143,18 @@ site_state: true
 social:
   GitHub: https://github.com/bruceeewong || fab fa-github
   E-Mail: mailto:bruskiwang@outlook.com || fa fa-envelope
-  #Weibo: https://weibo.com/yourname || fab fa-weibo
+  Twitter: https://twitter.com/brrruski || fab fa-twitter
+  FB Page: https://www.facebook.com/profile.php?id=100009135761203 || fab fa-facebook
+  Instagram: https://instagram.com/bruskiwang || fab fa-instagram
+  Weibo: https://weibo.com/1wong1/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1 || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
-  #Twitter: https://twitter.com/yourname || fab fa-twitter
-  #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
-  #Instagram: https://instagram.com/yourname || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
 
 social_icons:
   enable: true
-  icons_only: false
+  icons_only: true
   transition: false
 
 # Blog rolls
