@@ -1,5 +1,6 @@
 ---
 title: Hello, world!
+date: 2021-01-01 00:00:00
 categories: real-talk
 ---
 
