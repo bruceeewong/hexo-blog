@@ -1,7 +1,7 @@
 ---
 title: 记一次Ubuntu完美迁移系统盘的折腾
 date: 2021-04-18 00:00:00
-categories: coding
+categories: [system, linux]
 tags: [linux]
 ---
 
@@ -65,9 +65,7 @@ tags: [linux]
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210418233916352.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0JydXNraQ==,size_16,color_FFFFFF,t_70)
 
 > 分区方案参考文章
-> [Ubuntu20.04 操作系统安装及重中之重：系统分区](https://zhuanlan.zhihu.com/p/268620595?utm_source=qq)
-> [Linux 主分区，扩展分区，逻辑分区的联系和区别](https://www.cnblogs.com/w-wfy/p/8870598.html)
-> [Linux / boot 分区的建议大小是多少？](https://qastack.cn/server/334663/what-is-the-recommended-size-for-a-linux-boot-partition)
+> [Ubuntu20.04 操作系统安装及重中之重：系统分区](https://zhuanlan.zhihu.com/p/268620595?utm_source=qq) > [Linux 主分区，扩展分区，逻辑分区的联系和区别](https://www.cnblogs.com/w-wfy/p/8870598.html) > [Linux / boot 分区的建议大小是多少？](https://qastack.cn/server/334663/what-is-the-recommended-size-for-a-linux-boot-partition)
 
 经过思考，整张 250GB 卡都给到 ubuntu, 我的分区方案如下：
 

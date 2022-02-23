@@ -1,7 +1,7 @@
 ---
 title: 嘿，我回来了
 date: 2021-12-12 23:21:16
-categories: real-talk
+categories: daily
 ---
 
 距离上一次写博客已经阔别两个多月，今天我又回来了。

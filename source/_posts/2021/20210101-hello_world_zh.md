@@ -1,7 +1,7 @@
 ---
 title: Hello, world!
 date: 2021-01-01 00:00:00
-categories: real-talk
+categories: daily
 ---
 
 Hmm, 新博客的第一篇文章，说些什么好呢 🧐
