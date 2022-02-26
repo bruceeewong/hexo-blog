@@ -1,6 +1,6 @@
 ---
 title: 在Hexo（Next主题）中添加友情链接
-date： 2021-08-16 23:27:07
+date: 2021-08-16 23:27:07
 categories: hexo
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 第2天课程
 date: 2021-03-07 23:59:59
-categories: finance
+categories: [finance, 微淼小白理财课]
 tag: [微淼小白理财课]
 ---
 
