@@ -1,7 +1,7 @@
 ---
 title: mac命令行设置代理，别挡着我起飞
 date: 2021-07-10 00:00:00
-categories: coding
+categories: [system, macOS]
 tags: [macOS]
 ---
 

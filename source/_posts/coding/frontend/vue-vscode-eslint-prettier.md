@@ -1,7 +1,7 @@
 ---
 title: Vue|VSCode|ESLint+autofix最简配置
 date: 2021-10-04 09:56:35
-categories: coding
+categories: [coding, frontend]
 tags: [ide]
 ---
 

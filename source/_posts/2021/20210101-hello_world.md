@@ -1,7 +1,7 @@
 ---
 title: Hello 2021
 date: 2021-01-01 10:35:47
-categories: real-talk
+categories: daily
 ---
 
 Hi everyone in the World Wide Web, Bruski comes 😎. I am now a front-end developer in Fanlive web team of QQ Music, Tencent Music Entertainment (just 3 month so far).

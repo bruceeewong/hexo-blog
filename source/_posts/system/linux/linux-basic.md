@@ -1,7 +1,7 @@
 ---
 title: linux-basic
 date: 2021-10-04 09:51:01
-categories: coding
+categories: [system, linux]
 tags: [linux]
 ---
 

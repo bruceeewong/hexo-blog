@@ -1,7 +1,7 @@
 ---
 title: 谈谈CSS的渐进增强设计
 date: 2021-10-04 09:58:04
-categories: coding
+categories: [coding, frontend]
 tags: [css]
 ---
 
