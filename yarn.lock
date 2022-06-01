@@ -599,10 +599,10 @@ hexo-theme-landscape@^0.0.3:
   resolved "https://mirrors.tencent.com/npm/hexo-theme-landscape/-/hexo-theme-landscape-0.0.3.tgz#87d1f4d613da9be5245dad0d4b80479eab70d386"
   integrity sha512-b0Di+TUVs4ESrNX4ULEh9uQmADpO6kr10rIJ2OGZM8suNQNFKdxn+vJUjnLfKkCPJAfVmS7/S83KCNYe4tpoNw==
 
-hexo-theme-next@^8.7.0:
-  version "8.7.0"
-  resolved "https://mirrors.tencent.com/npm/hexo-theme-next/-/hexo-theme-next-8.7.0.tgz#c0710d797a5746ccf0a8693c7a1cd9ec2e8d0697"
-  integrity sha512-lTrXk3kDBSy645iPImiPHieSIvZPzZDDbQZypD4O96ZlVIb9/PO9z7xzSNxROFm4LCyZMF2a8bJEuq5nVkxZRQ==
+hexo-theme-next@^8.12.1:
+  version "8.12.1"
+  resolved "https://registry.yarnpkg.com/hexo-theme-next/-/hexo-theme-next-8.12.1.tgz#854b4608bb93502cfbb022ac46c117c5a3e50d7d"
+  integrity sha512-aUlzZFv9DXfjCNXPvwHxtMtIu8TDDp417ceMnG1KqBL+zV6le0q0sUWtekffMZ0BOZKUsB0QHvjF2hbO5dOUJg==
 
 hexo-util@1.9.0:
   version "1.9.0"
