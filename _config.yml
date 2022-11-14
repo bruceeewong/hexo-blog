@@ -6,9 +6,9 @@
 title: Bruski's Blog
 subtitle: sparks of life ✨
 description: Clean codes that works 💡
-keywords: [bruski, blog, coding, program]
+keywords: [bruski, blog, coding]
 author: Bruski
-language: [zh-CN, en]
+language: [en, zh-CN]
 timezone: ""
 
 # URL
@@ -46,7 +46,7 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace: ""
   wrap: true
   hljs: false
