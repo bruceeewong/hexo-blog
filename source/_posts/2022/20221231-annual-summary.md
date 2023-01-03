@@ -1,7 +1,7 @@
 ---
 title: 2022年度总结·破与立
 date: 2022-12-31 23:59:59
-categories: weekly
+categories: annually
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ACJX5Kmh16w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
