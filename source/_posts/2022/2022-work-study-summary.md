@@ -12,7 +12,7 @@ categories: annually
 - [ ]  培养阅读习惯，每月至少阅读1本书
 - [ ]  学习后端编程语言，Python为主，C++为辅
 
-评分: ★★★☆☆
+自评: ★★★★☆
 
 # 工作
 
@@ -26,8 +26,18 @@ categories: annually
 和本科朋友组团队，从8月开始投入，做到12月已经成为Sui钱包生态的Top3，推特粉丝数破100k。
 
 - 前期主要负责前端的架构设计和主要的页面实现。
-- 中期开始针对Wallet-Standard进行实现、推进各DApp接入，优先支持他们的开发需求，占据主流产品的前列位置。
+- 中期开始针对[Wallet Standard](https://github.com/MystenLabs/sui/tree/main/sdk/wallet-adapter/wallet-standard)进行实现、推进各DApp接入，优先支持他们的开发需求，占据主流产品的前列位置。
 - 后期主要是迭代与修bug，也开始深入钱包底层原理。根据[巴比特的开源文章](https://www.8btc.com/books/834/ethereum-book/_book/%E7%AC%AC%E5%85%AD%E7%AB%A0.html)学习底层技术，了解到所谓钱包其实就是本地的私钥管理和签名工具，配合与区块链交互的RPC API即可实现良好体验的钱包应用。
+
+通过开发钱包Chrome插件，我的前端整体架构设计能力得到锻炼。Chrome钱包插件的架构涉及跨上下文通信，主要利用service worker实现类后端服务，通过[Chrome Messaging机制](https://developer.chrome.com/docs/extensions/mv3/messaging/)建立通信通道，封装成JS Bridge来给前端UI弹窗提供API。存储则是利用IndexedDB存储持久化数据，[Persist Redux](https://github.com/rt2zz/redux-persist) + [Chrome Storage](https://developer.chrome.com/docs/extensions/reference/storage/)存储内存数据。
+
+![img](https://static.bruski.wang/picgo/20230103014836-0da63732c8a9d2c00225bdbfce72ec65.png)
+
+在Wallet Standard的实现过程中，整体交互还是比较复杂的，涉及主体有：DApp网页环境、Chrome Content Script沙盒、钱包Service worker、钱包UI。光这块的消息传递就很麻烦：DApp网页环境与Content Script沙盒环境是通过window postMessage广播传递消息，这里我JS事件编程利器[RxJS](https://rxjs.dev/)把广播收发包机制包装成类似RPC函数调用（屏蔽底层通信细节），实现独立连接的效果；Content Script与Service worker又得通过Chrome Messaging来通信。
+
+其次是wallet-standard的自动检测钱包适配器的机制实现。本质上就是DApp引入包含wallet-standard的包（如 [suiet wallet kit](https://kit.suiet.app/)），然后wallet-standard会开启一个特定事件监听register-wallet listener，wallet们各自在页面加载后触发注册事件，注册符合standard的adapter，从而完成DApp对钱包的auto-detection。
+
+![img](https://static.bruski.wang/picgo/20230103014849-6f7a7e154445882efd311c4fbbe86e51.png)
 
 Suiet是我们团队第一个作品，凝结了我们对Web3的期望和激情。Team Work的过程中我不仅是技术上得到提升，和不同领域的伙伴协作也是拓宽了我的眼界。币圈里做技术的人良莠不齐，很多基建也是不太可靠，开发体验远不如web2。但反过来想，这正是我们年轻工程师的机会呀，把web2里锤炼过的技术，再注入对web3的热情，Build here a better world。
 
@@ -60,7 +70,7 @@ Wallet Kit是我们做钱包的副产物，初衷是抢占与dapp合作的机会
 
 ![img](https://static.bruski.wang/picgo/20230103010128-82c875baadc689e934abd17110b8f47a.png)
 
-Anyway, 这是我第一个有项目在用的开源项目：Github 20+ repo的引用，以及npm周峰值800+的下载量，完全超出了我今年定下的要为开源社区贡献能力的目标～好有成就感，哈哈！
+Anyway, 这是我第一个做出来有项目在用的开源项目：Github 20+ repo的引用，以及npm周峰值800+的下载量，完全超出了我今年定下的要为开源社区贡献能力的目标～好有成就感，哈哈！
 
 ![img](https://static.bruski.wang/picgo/20230103010134-667a4388ac7df90f66ef39335fc6fb8a.png)
 
@@ -150,7 +160,7 @@ Let.sh是我和lzb第一个合作的项目，是一个all-in-one的开发部署�
 
 ![img](https://static.bruski.wang/picgo/20230103010207-ad44e402a0950a38261a02fc1ab672c3.png)
 
-![img](https://bruski.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F31913a1a-6a04-4538-ae9f-bf181c79d57c%2FUntitled.png?id=01447243-3301-4254-aa8e-2c4845f4ce08&table=block&spaceId=91da2de2-064f-4dce-ab49-d5e96f5387f9&width=2000&userId=&cache=v2)
+![1](https://static.bruski.wang/picgo/20230103013108-9c580a8956f03091f7e825d591947f0b.png)
 
 细数2022，我做了很多新尝试，建立了自己的crypto团队，做出了一些不可思议的成就。技术的增长还是主要在前端这块，但是今年已经踏入了web3，增加了对区块链的理解，并且还做了许多跨领域尝试，希望在2023能够保持对跨领域的热情，并且把根在区块链和后端扎的再深一点，逐渐转型为后端工程师，理由嘛，当然是不满足于只跟浏览器打交道咯。
 
