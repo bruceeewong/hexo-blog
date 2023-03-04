@@ -13,6 +13,8 @@ tags: [Leetcode]
 
 加油！每天打卡！
 
+<!-- more -->
+
 # 本周进度
 
 ![image-20221218224533832](https://static.bruski.wang/picgo/20221218224534-56c18acab97b2886b4ebcf6ef4b38bb1.png)

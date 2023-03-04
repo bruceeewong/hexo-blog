@@ -15,6 +15,8 @@ tag: [Annually]
 
 自评: ★★★★☆
 
+<!-- more -->
+
 # 工作
 
 ## Suiet Wallet

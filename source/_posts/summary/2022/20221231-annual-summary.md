@@ -9,6 +9,8 @@ tag: [Annually]
 
 > 看不了油管的，戳B站视频[【传送门】](https://www.bilibili.com/video/BV1TG4y177Kd/?spm_id_from=333.999.0.0&vd_source=cdd2b14ef235a4dc214d7799aa9a91ce) 🚀
 
+<!-- more -->
+
 Hey, 这里是2022年的王思哲，你们好吗？
 
 我的2022，如果要选一个关键词，那我会选：“破与立”。
