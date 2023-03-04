@@ -1,8 +1,8 @@
 ---
 title: 第一周-指数基金交易实操
 date: 2021-03-21 00:00:00
-categories: [finance, 微淼进阶课]
-tag: [微淼进阶课]
+categories: [Finance]
+tag: [Weimiao]
 ---
 
 > 提问：投资指数基金的本质是投资什么？答案：股票

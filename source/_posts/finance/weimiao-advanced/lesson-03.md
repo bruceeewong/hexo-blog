@@ -1,8 +1,8 @@
 ---
 title: 第三周加餐-股票&国债
 date: 2021-03-23 00:00:00
-categories: [finance, 微淼进阶课]
-tag: [微淼进阶课]
+categories: [Finance]
+tag: [Weimiao]
 ---
 
 # 股票部分

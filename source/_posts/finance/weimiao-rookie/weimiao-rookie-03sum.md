@@ -1,8 +1,8 @@
 ---
 title: 前3天课程总结
 date: 2021-03-08 23:59:59
-categories: [finance, 微淼小白理财课]
-tag: [微淼小白理财课]
+categories: [Finance]
+tag: [Weimiao]
 ---
 
 经过三天的理财入门课学习，我的感受就是一个词：**点亮**。

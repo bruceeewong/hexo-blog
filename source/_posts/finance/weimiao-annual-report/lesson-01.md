@@ -1,8 +1,8 @@
 ---
 title: 第11周 企业基本情况分析
 date: 2021-04-01 00:00:00
-categories: [finance, 微淼财报课]
-tag: [微淼财报课]
+categories: [Finance]
+tag: [Weimiao]
 ---
 
 > 查看企业财报就像相亲，需要了解对方的基本情况。如何从企业财报里找到基本信息，课程以海天味业为例：

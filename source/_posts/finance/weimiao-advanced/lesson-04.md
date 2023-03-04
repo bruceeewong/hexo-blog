@@ -1,8 +1,8 @@
 ---
 title: 第4周案例作业-精选股票
 date: 2021-03-24 00:00:00
-categories: [finance, 微淼进阶课]
-tag: [微淼进阶课]
+categories: [Finance]
+tag: [Weimiao]
 ---
 
 # A 股筛选

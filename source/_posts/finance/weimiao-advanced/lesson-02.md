@@ -1,8 +1,8 @@
 ---
 title: 第二周-可转债
 date: 2021-03-22 00:00:00
-categories: [finance, 微淼进阶课]
-tag: [微淼进阶课]
+categories: [Finance]
+tag: [Weimiao]
 ---
 
 # 什么是可转债打新？

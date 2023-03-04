@@ -1,8 +1,8 @@
 ---
 title: 第10天课程-理财实操
 date: 2021-03-15 23:59:59
-categories: [finance, 微淼小白理财课]
-tag: [微淼小白理财课]
+categories: [Finance]
+tag: [Weimiao]
 ---
 
 # 晚课

@@ -1,8 +1,8 @@
 ---
 title: A股公司简评
 date: 2021-03-26 00:00:00
-categories: [finance, 微淼进阶课]
-tag: [微淼进阶课]
+categories: [Finance]
+tag: [Weimiao]
 ---
 
 老师给同学们讲讲之前我们选出的 a 股公司，简评吧！

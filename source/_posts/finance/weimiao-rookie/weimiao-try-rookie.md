@@ -1,8 +1,8 @@
 ---
 title: 偶然？尝试？
 date: 2021-03-05 00:00:00
-categories: [finance, 微淼小白理财课]
-tag: [微淼小白理财课]
+categories: [Finance]
+tag: [Weimiao]
 ---
 
 > 想搞钱了，尝试下理财小白训练营

@@ -1,8 +1,8 @@
 ---
 title: 雪球APP查询股票攻略
 date: 2021-03-25 00:00:00
-categories: [finance, 微淼进阶课]
-tag: [微淼进阶课]
+categories: [Finance]
+tag: [Weimiao]
 ---
 
 # 第一步：手机安装雪球 APP，或者电脑打开雪球网站 www.xueqiu.com

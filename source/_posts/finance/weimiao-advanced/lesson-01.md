@@ -1,8 +1,8 @@
 ---
 title: 第一周-指数基金
 date: 2021-03-21 00:00:00
-categories: [finance, 微淼进阶课]
-tag: [微淼进阶课]
+categories: [Finance]
+tag: [Weimiao]
 ---
 
 # 指数基金

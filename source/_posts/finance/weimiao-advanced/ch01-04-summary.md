@@ -1,8 +1,8 @@
 ---
 title: 前四章总结
 date: 2021-03-20 00:00:00
-categories: [finance, 微淼进阶课]
-tag: [微淼进阶课]
+categories: [Finance]
+tag: [Weimiao]
 ---
 
 # 财务自由纲领

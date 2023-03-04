@@ -1,8 +1,8 @@
 ---
 title: 第6天课程-企业分析
 date: 2021-03-11 23:59:59
-categories: [finance, 微淼小白理财课]
-tag: [微淼小白理财课]
+categories: [Finance]
+tag: [Weimiao]
 ---
 
 # 早读

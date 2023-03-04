@@ -1,8 +1,8 @@
 ---
 title: 第11天课程-结业
 date: 2021-03-16 23:59:59
-categories: [finance, 微淼小白理财课]
-tag: [微淼小白理财课]
+categories: [Finance]
+tag: [Weimiao]
 ---
 
 [《我的草根同学的财务自由之路》](http://xiaobai.yaocaiwuziyou.com/index.php/Home/OldTest/Zao?type=20&id=2444624&imid=11166483&num=11)

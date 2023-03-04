@@ -1,8 +1,8 @@
 ---
 title: 第5天课程-认识股票
 date: 2021-03-10 23:59:59
-categories: [finance, 微淼小白理财课]
-tag: [微淼小白理财课]
+categories: [Finance]
+tag: [Weimiao]
 ---
 
 # 早读
