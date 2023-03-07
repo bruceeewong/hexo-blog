@@ -264,9 +264,9 @@ console.log('obj', obj)
 console.log('cloneObj', cloneObj)
 ```
 
-![image-20230306230446676](/Users/bruski/Library/Application Support/typora-user-images/image-20230306230446676.png)
+![image-20230306230446676](https://static.bruski.wang/picgo/20230306233134-fdae3bad0aa29d076065ae47ab34a990.png)
 
-The resule shows we have done the deep clone perfectly🔥
+The resule shows we have done deep clone perfectly🔥
 
 # Summary
 
