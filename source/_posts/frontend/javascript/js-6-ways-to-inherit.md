@@ -68,6 +68,7 @@ Watch this demo:
 ```javascript
   function Parent1(){
     this.name = 'parent1';
+    this.play = [1, 2, 3];
   }
 
   Parent1.prototype.getName = function () {
@@ -79,10 +80,11 @@ Watch this demo:
     this.type = 'child1'
   }
 
-  let child = new Child1();
-  console.log(child.name);  // "parent1"
-  console.log(child.getName());  // throws error
-
+  let child1 = new Child1();
+  let child2 = new Child1();
+	child1.play.push(4);
+	console.log(child1.play, child2.play); // [1,2,3,4] for child1, [1,2,3] for child 2, problem solved
+  console.log(child1.getName());  // throws error
 ```
 
 Now we solve the problem of the method one, i.e. we get the properties from the parent. However, we lose the prototype functions of the parent too.
@@ -191,7 +193,7 @@ We see that `Object.create` enables our new objects to inherit the properties fr
 
 ```
 
-Owning more functions rather than just copying from parent objects, that's parasitic inheritance.
+Adding more functions rather than just copying from parent objects, that's parasitic inheritance.
 
 ## Method 6: Parasitic Combination Inheritance
 
