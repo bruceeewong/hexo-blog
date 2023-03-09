@@ -2,7 +2,7 @@
 title: 6 Ways of Inheritance in JavaScript
 date: 2023-03-08 19:45:00
 categories: [FrontEnd, JavaScript]
-tags: [JavaScript, Data Structure]
+tags: [JavaScript, Inheritance]
 ---
 
 This article is going to talk about the `Inheritance` in JavaScript.
